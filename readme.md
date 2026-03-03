@@ -24,7 +24,7 @@ Capacitar alunos a:
 - Diferença entre código do lado do servidor e HTML  
 
 ### 2️⃣ Ambiente de Desenvolvimento
-- Instalação do PHP e servidor local (XAMPP, Laragon ou PHP embutido)  
+- Instalação do PHP e servidor local (XAMPP)  
 - Estrutura básica de arquivos `.php`  
 
 ### 3️⃣ Sintaxe Básica
